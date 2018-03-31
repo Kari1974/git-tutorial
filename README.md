@@ -3,5 +3,5 @@ Sample repo for git tutorial
 
 ## Author
 
-Kari Whitney
-Student
+Kari Whitney  
+Student, MLIS candidate
